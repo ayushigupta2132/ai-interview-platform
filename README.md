@@ -43,7 +43,7 @@ https://ayushigupta2132-ai-interview-platform-app-5h9l34.streamlit.app/
 ## Demo Video
 
 **Project Demo Video:**
-
+https://drive.google.com/file/d/1QAjGUlOMtvBuD0jDzbOyvLdGRSczqb9Z/view?usp=sharing
 
 ---
 
